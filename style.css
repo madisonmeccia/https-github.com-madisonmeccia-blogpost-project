@@ -1,0 +1,84 @@
+h2 {
+  color: hotpink;
+}
+h1{
+  color: cornsilk;
+}
+
+.headers {
+  text-align: center;
+  background-color: black;
+  border: 3px solid whitesmoke;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+.grande {
+  color: blueviolet;
+}
+
+.one {
+  color: blueviolet;
+}
+
+.favorites {
+  color: black;
+}
+
+.faves {
+  columns: blueviolet;
+}
+
+ body {
+  font-family: 'Dangrek', cursive;
+ background-image: url(image.jpg);
+}
+
+
+.one{
+  color: blueviolet;
+}
+
+.mnr,
+.fave {
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-left: 25%;
+  background-color: lightpink;
+  color: blueviolet;
+  height: 600px;
+  width: 50%;
+  text-align: center;
+}
+
+.zero {
+border-radius: 15px;
+  margin-top: 50px;
+  margin-left: 25%;
+  background-color: plum;
+ color: honeydew;
+  height: 600px;
+  width: 50%;
+  text-align: center;
+}
+.imageone,
+.imagetwo,
+.imagethird {
+ text-align: center;
+ margin: 20px;
+ height: 350px;
+ margin-top: 5px;
+}
+
+.yeah {
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-left: 25%;
+  background-color: lightpink;
+  color: blueviolet;
+  height: 600px;
+  width: 50%;
+  text-align: center;
+}
+// "liveServer.settings.proxy": {
+  //     "enable": true,
