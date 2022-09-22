@@ -62,14 +62,14 @@ border-radius: 15px;
   text-align: center;
 }
 .imageone,
-.imagetwo,
 .imagethird {
  text-align: center;
  margin: 15px;
  height: 310px;
  margin-top: 30px;
 }
-
+.image2{
+}
 .yeah {
   border-radius: 15px;
   margin-top: 50px;
